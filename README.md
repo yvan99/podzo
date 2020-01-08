@@ -12,15 +12,15 @@ Click Login
 
 ADMIN CREDENTIALS 
 
-EMAIL :
+EMAIL : admin2020@gmail.com
 
-PASSWORD:
+PASSWORD: 1234@git
 
 ```
 Browser : Google Chrome
 ```
 
-### Installing
+### WOrking with the app
 
 click on this link to open the app
 
@@ -28,14 +28,31 @@ click on this link to open the app
 
  OR HERE https://podzo.herokuapp.com/
 
-yOU WILL BE DIrected to the homepage where you will be able to view the list of registered restaurents with somw details
+YOU WILL BE redirected to the homepage where you will be able to view the list of registered restaurents with somw details
 
 NOTE : Results are fetched from the database
 
+- On The restaurats list on homepage , click on the restaurant name and you will be able to view the restaurant menu
+
+- IN navigation menu click on login button and you will be directed to the login page
+
+- on that page , fill the user credentials provided 
+
+ADMIN CREDENTIALS 
+
+EMAIL : admin2020@gmail.com
+
+PASSWORD: 1234@git
+
+- Homepage : include the app statistics and Dashboard
+- Restaurant : holds the list of restaurant , click on add new button to add one
+- Menu: Holds the list of the restaurants menu , click on add new to add a menu
+
+Note: THE DATA ARE STORED IN DATABASE
 
 
 ```
-XAMMP
+hosting service :  heroku
 ```
 
 
@@ -47,6 +64,9 @@ XAMMP
 * [JAVASCRIPT](https://www.w3schools.com/js/js_intro.asp) - Real Time Programming Language
 * [MYSQL](https://www.w3schools.com/sql/sql_intro.asp) - Used In Database Management
 
+## HOSTING SERVICE
+
+* [HEROLU](https://www.heroku.com) - Hosting service
 
 ## Authors
 
