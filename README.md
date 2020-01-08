@@ -66,7 +66,7 @@ hosting service :  heroku
 
 ## HOSTING SERVICE
 
-* [HEROLU](https://www.heroku.com) - Hosting service
+* [HEROKU](https://www.heroku.com) - Hosting service
 
 ## Authors
 
