@@ -1,3 +1,3 @@
 <?php
-$conn=mysqli_connect("localhost","root","","podzo") or die("Could not connect,check your database connection");
+$conn=mysqli_connect("remotemysql.com","LZZAtVLpCd","WFHtFysIhk","LZZAtVLpCd") or die("Could not connect,check your database connection");
 ?>
